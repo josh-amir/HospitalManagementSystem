@@ -1,0 +1,5 @@
+4321541,Prince Joshua Ngojo,Surgery and General,095635225,Male,20-30,MWF
+64297,Ramani Durvusula,Psychology,047295425,Female,20-30,MTWTH
+3451513,Robert Grant,Family Medicine,84847372,Male,10-20,MTWTHF
+342151,Eliabeth Grant,Psychology,341415,Female,0-10,MT
+315455,Evie Narvasa,General Medicine,3556161,Male,10-20,MTWFSat
